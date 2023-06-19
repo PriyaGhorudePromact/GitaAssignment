@@ -1,0 +1,4 @@
+Keep your friends close, but your enemies closer. >> 3.txt
+echo Keep your friends close, but your enemies closer. >> 3.txt
+echo Keep your friends close, but your enemies closer.
+Keep your friends close, but your enemies closer.
