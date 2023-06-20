@@ -1,0 +1,27 @@
+ Provide commands for below operation 
+
+- Command to initialize git repository  - git init
+
+- Command to clone remote repository - git clone url
+
+- Command to stage all changes - git add .(for stage all) && git add xyz.txt(for single file staging)
+
+- Command to view state of working directory and staging area - git status
+
+- Command to create new branch - git branch BranchName
+
+- Command to change branch - git checkout AnotherBranchName
+
+- Command to clean staging area - git reset FileName
+
+- Command to get commits and changes from remote branch (It should not merge changes in current branch). -  git pull
+
+- Command to get commits and changes from remote branch (It should merge changes in current branch). - git fetch
+
+- Command to cherry pick commit which SHA => 092018283103810930  => git cherry-pick 092018283103810930
+
+- Command to push branch - git push BranchName
+
+- Command to delete remote branch - git branch -d BranchToDelete
+
+- Command to do iterative rebase - git rebase -i
